@@ -2,7 +2,7 @@
 易盾验证码java演示
 
 # demo运行步骤
-* 修改index.html
+* 修改index.jsp
 ```
 initNECaptcha({
   captchaId: '这里填入在易盾官网申请的验证码id',
