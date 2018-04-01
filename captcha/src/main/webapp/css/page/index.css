@@ -1,0 +1,140 @@
+* {font-size:12px;}
+body {font-family:helvetica,tahoma,verdana,sans-serif;padding:20px;font-size:13px;margin:0;}
+h2 {font-size:18px;font-weight:bold;margin:0;margin-bottom:15px;}
+
+.changeform table tr {
+	height: 30px;
+}
+
+
+
+
+#indexTop{
+	height: 80px;
+	background: url('../../images/page/bg.jpg') repeat-x;
+}
+#indexTop_new{
+	verflow: hidden; 
+	height: 30px;
+    background: url(../../images/page/layout-browser-hd-bg.gif) #7f99be repeat-x center 50%;
+    line-height: 20px;color: #fff; font-family: Verdana, 微软雅黑,黑体
+}
+.head a{color:White;text-decoration:underline;}
+.footer{text-align:center;color:#15428B; margin:0px; padding:0px;line-height:23px; font-weight:bold;}
+#indexSouth{
+	height: 30px; background: #D2E0F2;
+}
+.easyui-accordion ul{list-style-type:none;margin:0px; padding:10px;}
+.easyui-accordion ul li{ padding:0px;}
+.easyui-accordion ul li a{line-height:24px;color:Black; text-decoration:none}
+.easyui-accordion ul li a:hover{ color:Red; text-decoration:underline;}
+.easyui-accordion ul li div{margin:2px 0px;padding-left:10px;padding-top:2px;}
+.easyui-accordion ul li div.hover{border:1px dashed #99BBE8; background:#E0ECFF;cursor:pointer;}
+.easyui-accordion ul li div.hover a{color:#416AA3;}
+.easyui-accordion ul li div.selected{border:1px solid #99BBE8; background:#E0ECFF;cursor:default;}
+.easyui-accordion ul li div.selected a{color:#416AA3; font-weight:bold;}
+.icon{width:18px; line-height:18px; display:inline-block;}
+
+#logo{
+	position:absolute;
+	left:10px;
+	top:5px;
+	height:74px;
+	width:386px;
+	background: url('../../images/page/logo.png') no-repeat center center;
+}
+
+.demo-info{background:#FFFEE6;color:#8F5700;padding:12px;}
+.demo-tip{width:16px;height:16px;margin-right:8px;float:left;}
+.acc-panel-inner{padding-left:20px;border-width:0 0 1px;cursor:pointer;}
+.acc-panel-icon{left:20px;_left:0px;position: absolute;*top: 12px;}
+#baseInfo {position:absolute;right:5px;*right:20px;top:5px;color: #0e2d5f;}
+.baseInfo-inner {position: relative;float: left;padding-right:5px;padding-top: 5px;}
+#topMenu {position:absolute;right:10px;*right:20px;bottom:0px;padding:0px;overflow:hidden;}
+#topMenu ul {list-style-type:none;}
+#topMenu ul li {float:left;margin: 0 4px -1px 0;padding:0px;display: inline-block;position: relative;}
+#topMenu li.selected a {
+	border: 1px solid #000;
+	background-color: #ffffff;
+  	color: #0E2D5F;
+  	background: -webkit-linear-gradient(top,#EFF5FF 0,#ffffff 100%);
+  	background: -moz-linear-gradient(top,#EFF5FF 0,#ffffff 100%);
+ 	background: -o-linear-gradient(top,#EFF5FF 0,#ffffff 100%);
+  	background: linear-gradient(to bottom,#EFF5FF 0,#ffffff 100%);
+  	background-repeat: repeat-x;
+  	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#EFF5FF,endColorstr=#ffffff,GradientType=0);
+  	font-weight: bold;
+    outline: none;
+}
+#topMenu a {
+	display: inline-block;
+  	text-decoration: none;
+ 	margin: 0;
+  	padding: 0 10px;
+  	height: 25px;
+  	line-height: 25px;
+  	text-align: center;
+  	white-space: nowrap;
+  	border-width: 1px;
+  	border-style: solid;
+  	-moz-border-radius: 5px 5px 0 0;
+  	-webkit-border-radius: 5px 5px 0 0;
+  	border-radius: 5px 5px 0 0;
+  	
+	color: #0E2D5F;
+ 	background-color: #E0ECFF;
+    background: -webkit-linear-gradient(top,#EFF5FF 0,#E0ECFF 100%);
+    background: -moz-linear-gradient(top,#EFF5FF 0,#E0ECFF 100%);
+    background: -o-linear-gradient(top,#EFF5FF 0,#E0ECFF 100%);
+    background: linear-gradient(to bottom,#EFF5FF 0,#E0ECFF 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#EFF5FF,endColorstr=#E0ECFF,GradientType=0);
+    border-color: #95B8E7;
+}
+
+
+
+
+.acc_icon_person1{
+	background:url('../../images/person1.png') no-repeat center center;
+}
+
+.acc_icon_star{
+	background:url('../../images/star.gif') no-repeat center center;
+}
+
+.acc_icon_group{
+	background:url('../../images/group.png') no-repeat center center;
+}
+
+.acc_icon_pkg{
+	background:url('../../images/pkg.gif') no-repeat center center;
+}
+
+.acc_icon_tag_green{
+	background:url('../../images/tag_green.gif') no-repeat center center;
+}
+
+.acc_icon_page_white_text{
+	background:url('../../images/page_white_text.gif') no-repeat center center;
+}
+
+.acc_icon_folder_table{
+	background:url('../../images/folder_table.gif') no-repeat center center;
+}
+
+.acc_icon_world{
+	background:url('../../images/world.gif') no-repeat center center;
+}
+
+.acc_icon_pilcrow{
+	background:url('../../images/pilcrow.gif') no-repeat center center;
+}
+
+
+.acc_icon_setting{
+	background:url('../../images/setting.png') no-repeat center center;
+}
+
+
+

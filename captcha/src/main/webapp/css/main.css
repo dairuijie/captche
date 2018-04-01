@@ -1,0 +1,184 @@
+.tt-inner{ display:inline-block; line-height:10px;padding-top:5px;}
+.tt-inner img{border:0;}
+.hgtable td{
+
+	
+}
+.hgtable font{
+	color: red;
+	font-weight: bold;
+}
+.hgform label.error{ background: url(../images/error.png) no-repeat 0px 0px;color: Red;padding-left: 20px;font-weight: bold;}        
+.hgform input.error{ border: dashed 1px red;}
+
+.sysVarbar{
+	background-color:#F5F5F5;
+}
+
+.gridSearchBar input{
+	border: 1px solid #ccc;
+}
+
+.gridSearchBar fieldset{
+	background-color: #EEE5DE;height: 50px;
+}
+
+.gridSearchBar1 input{
+	border: 1px solid #ccc;
+}
+.gridSearchBar1 fieldset{
+	background-color: #EEE5DE;height: 100px;
+}
+
+#centerpage_authTable td{
+	border: 1px dashed #aaa;
+}
+
+#centerpage_authTable td.td1{
+	background-color: #ccc;
+}
+
+.m-icon-search{
+	background:url('../images/search.png') no-repeat center center;
+}
+.m-icon-clear{
+	background:url('../images/clear.png') no-repeat center center;
+}
+
+.icon-ok{
+	background:url('../images/accept.gif') no-repeat center center;
+}
+.icon-cancel{
+	background:url('../images/cancel.gif') no-repeat center center;
+}
+.icon-reset{
+	background:url('../images/reset.png') no-repeat center center;
+}
+
+.m-icon-win{
+	background:url('../images/window.png') no-repeat center center;
+}
+.m-icon-drive{
+	background:url('../images/drive.gif') no-repeat center center;
+}
+.m-icon-group{
+	background:url('../images/group.gif') no-repeat center center;
+}
+.m-icon-group2{
+	background:url('../images/group.png') no-repeat center center;
+}
+.m-icon-group-add{
+	background:url('../images/group_add.png') no-repeat center center;
+}
+.m-icon-group-edit{
+	background:url('../images/group_edit.png') no-repeat center center;
+}
+.m-icon-group-del{
+	background:url('../images/group_del.png') no-repeat center center;
+}
+.m-icon-user-red{
+	background:url('../images/user_red.gif') no-repeat center center;
+}
+.m-icon-user-orange{
+	background:url('../images/user_orange.gif') no-repeat center center;
+}
+.m-icon-user-add{
+	background:url('../images/user_add.gif') no-repeat center center;
+}
+.m-icon-tag-parentDept{
+	background:url('../images/parentDept.png') no-repeat center center;
+}
+.m-icon-tag-dept{
+	background:url('../images/dept.png') no-repeat center center;
+}
+.m-icon-tag-green{
+	background:url('../images/tag_green.gif') no-repeat center center;
+}
+.m-icon-tag-purple{
+	background:url('../images/tag_purple.gif') no-repeat center center;
+}
+.m-icon-star{
+	background:url('../images/star.gif') no-repeat center center;
+}
+.m-icon-star-add{
+	background:url('../images/star_add.png') no-repeat center center;
+}
+.m-icon-star-edit{
+	background:url('../images/star_edit.png') no-repeat center center;
+}
+.m-icon-star-del{
+	background:url('../images/star_del.png') no-repeat center center;
+}
+
+.m-icon-tag-add{
+	background:url('../images/tag_blue_add.gif') no-repeat center center;
+}
+.m-icon-tag-edit{
+	background:url('../images/tag_blue_edit.gif') no-repeat center center;
+}
+.m-icon-tag-del{
+	background:url('../images/tag_blue_delete.gif') no-repeat center center;
+}
+.m-icon-tag-red{
+	background:url('../images/tag_red.gif') no-repeat center center;
+}
+.m-icon-pkg{
+	background:url('../images/pkg.gif') no-repeat center center;
+}
+.m-icon-person{
+	background:url('../images/person1.png') no-repeat center center;
+}
+.m-icon-person-add{
+	background:url('../images/person_add.png') no-repeat center center;
+}
+.m-icon-person-edit{
+	background:url('../images/person_edit.png') no-repeat center center;
+}
+.m-icon-person-del{
+	background:url('../images/person_del.png') no-repeat center center;
+}
+
+.m-icon-app{
+	background:url('../images/application_form.gif') no-repeat center center;
+}
+.m-icon-app-add{
+	background:url('../images/application_form_add.gif') no-repeat center center;
+}
+.m-icon-app-edit{
+	background:url('../images/application_form_edit.gif') no-repeat center center;
+}
+.m-icon-app-del{
+	background:url('../images/application_form_delete.gif') no-repeat center center;
+}
+.m-icon-personal{
+	background:url('../images/personal.png') no-repeat center center;
+}
+
+.m-icon-key{
+	background:url('../images/key16.png') no-repeat center center;
+}
+.m-icon-edit{
+	background:url('../images/edit16.png') no-repeat center center;
+}
+.m-icon-oper16{
+	background:url('../images/oper16.png') no-repeat center center;
+}
+
+.m-icon-list{
+	background:url('../images/listview.png') no-repeat center center;
+}
+
+.m-icon-key-y{
+	background:url('../images/key_y_16.png') no-repeat center center;
+}
+
+
+.m-icon-arrow_branch{
+	background:url('../images/arrow_branch.gif') no-repeat center center;
+}
+.m-icon-chart_bar{
+	background:url('../images/chart_bar.gif') no-repeat center center;
+}
+.m-icon-door{
+	background:url('../images/door.gif') no-repeat center center;
+}

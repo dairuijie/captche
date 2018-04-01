@@ -1,0 +1,39 @@
+.fork {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0; }
+
+.example {
+  position: relative; }
+  .example .brick {
+    opacity: 1;
+    cursor: pointer;
+    position: relative; }
+    .example .brick .delete {
+      display: block;
+      color: white;
+      background: rgba(255, 255, 255, 0.2);
+      width: 40px;
+      height: 40px;
+      top: 0;
+      right: 0;
+      position: absolute;
+      text-align: center;
+      line-height: 40px; }
+    .example .brick.small {
+      width: 140px;
+      height: 140px; }
+    .example .brick.large {
+      width: 250px;
+      height: 250px; }
+    .example .brick.dragging {
+      opacity: 0.8; }
+    .example .brick:nth-child(20n + 1) {
+      background: #1abc9c; }
+    .example .brick:nth-child(20n + 2) {
+      background: #16a085; }
+    .example .brick:nth-child(20n + 3) {
+      background: #2ecc71; }
+    .example .brick:nth-child(20n + 4) {
+      background: #27ae60; }
