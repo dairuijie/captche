@@ -5,7 +5,7 @@
 * 修改index.html
 ```
 initNECaptcha({
-  captchaId: 'YOUR_CAPTCHA_ID', // <-- 这里填入在易盾官网申请的验证码id
+  captchaId: '这里填入在易盾官网申请的验证码id',
   element: '#captcha_div',
   mode: 'float',
   width: '320px',
@@ -27,6 +27,3 @@ initNECaptcha({
     private static final String secretId = "YOUR_SECRET_ID"; // 密钥对id
     private static final String secretKey = "YOUR_SECRET_KEY"; // 密钥对key
 ```
-
-* `mvn tomcat7:run`
-* 浏览器访问 http://localhost:8181/ 查看演示
